@@ -12,7 +12,8 @@ Power BI (DAX, Data Modeling, Dashboards)<br>
 SQL (Data extraction, joins, optimization)<br>
 Excel (Analysis, reporting, automation)<br>
 Tableau (Interactive dashboards & storytelling)<br>
-Data Visualization & Business Analytics
+Data Visualization & Business Analytics<br>
+Programming (Python , R)
 
 📌 A Bit About Me
 
