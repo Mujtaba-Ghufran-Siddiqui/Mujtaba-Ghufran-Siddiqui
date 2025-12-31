@@ -7,26 +7,16 @@ I work mainly with Power BI, Tableau , SQL, and Excel, and I enjoy building dash
 
 This profile is where I share my analytics projects, experiments, and real-world problem-solving work — everything built from scratch, not copied templates.
 
-🛠 Tools & Tech
-
-Power BI (DAX, Data Modeling, Dashboards)
-
-SQL (Data extraction, joins, optimization)
-
-Excel (Analysis, cleaning, reporting)
-
-Tableau (Interactive dashboards & storytelling)
-
-Data Visualization & Storytelling
-
-Business Analytics & KPI Tracking
+### 🛠 Tools & Tech  
+Power BI (DAX, Data Modeling, Dashboards)<br>
+SQL (Data extraction, joins, optimization)<br>
+Excel (Analysis, reporting, automation)<br>
+Tableau (Interactive dashboards & storytelling)<br>
+Data Visualization & Business Analytics
 
 📌 A Bit About Me
 
-📊 I enjoy breaking down complex data into clear insights
-
-🧠 I focus on why something happened, not just what happened
-
-🚀 I like building dashboards that actually support decisions
-
-🎯 Currently focused on becoming a strong, industry-ready Data Analyst
+📊 I enjoy breaking down complex datasets into clear, meaningful insights<br>
+🧠 I focus on understanding why trends happen, not just reporting numbers<br>
+🚀 I like building dashboards that actually help stakeholders make decisions<br>
+🎯 Currently focused on growing as a strong, industry-ready Data Analyst
